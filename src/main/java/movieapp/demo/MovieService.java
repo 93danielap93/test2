@@ -27,14 +27,9 @@ public class MovieService {
 
     }
 
-    /*public void updateMovie(){
-        for (int i = 0; i < movies.size(); i++){
-            Movie m = movies.get(i);
-            if (m.getMovie().equals(movies)){
-                movies.set(i, movies);
-                return;
+  
             }
         }
 
-    }*/
+    }
 }
